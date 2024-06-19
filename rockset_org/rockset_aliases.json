@@ -1,0 +1,329 @@
+{
+  "data": [
+    {
+      "name": "video_game_embeddings_a",
+      "description": null,
+      "workspace": "reinvent_2023",
+      "creator_email": "patrick.druley@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "reinvent_2023.video_game_embeddings"
+      ],
+      "state": "CREATED",
+      "created_at": "2023-11-21T15:53:29Z",
+      "modified_at": "2023-11-21T15:53:29Z"
+    },
+    {
+      "name": "ProductsAlias",
+      "description": null,
+      "workspace": "commons",
+      "creator_email": "luka@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "Demo_Ecommerce.Products"
+      ],
+      "state": "CREATED",
+      "created_at": "2024-03-01T11:51:49Z",
+      "modified_at": "2024-03-01T11:51:49Z"
+    },
+    {
+      "name": "test_airports",
+      "description": null,
+      "workspace": "Demo_Airport",
+      "creator_email": "luka@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "Demo_Airport.flights"
+      ],
+      "state": "CREATED",
+      "created_at": "2024-03-15T14:59:18Z",
+      "modified_at": "2024-03-15T15:00:09Z"
+    },
+    {
+      "name": "github_actors_a",
+      "description": null,
+      "workspace": "Demo_Github",
+      "creator_email": "patrick.druley@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "Demo_Github.github_actors"
+      ],
+      "state": "CREATED",
+      "created_at": "2024-02-15T23:45:50Z",
+      "modified_at": "2024-02-15T23:45:50Z"
+    },
+    {
+      "name": "github_events_a",
+      "description": null,
+      "workspace": "Demo_Github",
+      "creator_email": "patrick.druley@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "Demo_Github.github_public_events_v2"
+      ],
+      "state": "CREATED",
+      "created_at": "2024-02-15T23:45:22Z",
+      "modified_at": "2024-02-15T23:45:22Z"
+    },
+    {
+      "name": "github_orgs_a",
+      "description": null,
+      "workspace": "Demo_Github",
+      "creator_email": "patrick.druley@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "Demo_Github.github_orgs"
+      ],
+      "state": "CREATED",
+      "created_at": "2024-02-15T23:46:16Z",
+      "modified_at": "2024-02-15T23:46:16Z"
+    },
+    {
+      "name": "github_repos_a",
+      "description": null,
+      "workspace": "Demo_Github",
+      "creator_email": "patrick.druley@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "Demo_Github.github_repos"
+      ],
+      "state": "CREATED",
+      "created_at": "2024-02-15T23:46:42Z",
+      "modified_at": "2024-02-15T23:46:42Z"
+    },
+    {
+      "name": "tweets_alias",
+      "description": "twitter data",
+      "workspace": "Demo_Social_Media",
+      "creator_email": "patrick.druley@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "Demo_Social_Media.twitter_live"
+      ],
+      "state": "CREATED",
+      "created_at": "2024-02-05T16:55:44Z",
+      "modified_at": "2024-02-05T16:55:44Z"
+    },
+    {
+      "name": "tickers_alias",
+      "description": "stock ticker info",
+      "workspace": "Demo_Social_Media",
+      "creator_email": "patrick.druley@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "Demo_Social_Media.tickers_apr_2022"
+      ],
+      "state": "CREATED",
+      "created_at": "2024-02-05T16:56:39Z",
+      "modified_at": "2024-02-05T16:56:39Z"
+    },
+    {
+      "name": "twitter",
+      "description": null,
+      "workspace": "index_conf",
+      "creator_email": "payton@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "Demo_Hybrid_Search.twitter_geo"
+      ],
+      "state": "CREATED",
+      "created_at": "2024-05-15T21:48:59Z",
+      "modified_at": "2024-05-15T22:26:56Z"
+    },
+    {
+      "name": "ProductsAlias",
+      "description": null,
+      "workspace": "Demo_Ecommerce",
+      "creator_email": "luka@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "Demo_Ecommerce.Products"
+      ],
+      "state": "CREATED",
+      "created_at": "2024-02-06T10:31:33Z",
+      "modified_at": "2024-02-20T20:48:23Z"
+    },
+    {
+      "name": "ProductStatsAlias",
+      "description": null,
+      "workspace": "Demo_Ecommerce",
+      "creator_email": "luka@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "Demo_Ecommerce.ProductStats"
+      ],
+      "state": "CREATED",
+      "created_at": "2024-02-06T10:31:47Z",
+      "modified_at": "2024-02-06T10:31:47Z"
+    },
+    {
+      "name": "ShopEventsAlias",
+      "description": null,
+      "workspace": "Demo_Ecommerce",
+      "creator_email": "luka@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "Demo_Ecommerce.ShopEvents"
+      ],
+      "state": "CREATED",
+      "created_at": "2024-02-06T10:32:01Z",
+      "modified_at": "2024-02-06T10:32:01Z"
+    },
+    {
+      "name": "test",
+      "description": null,
+      "workspace": "sandbox",
+      "creator_email": "kiril@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "sandbox.dash-collection"
+      ],
+      "state": "CREATED",
+      "created_at": "2024-03-14T16:15:56Z",
+      "modified_at": "2024-03-14T16:15:56Z"
+    },
+    {
+      "name": "dash_collection",
+      "description": null,
+      "workspace": "sandbox",
+      "creator_email": "kiril@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "sandbox.dash-collection"
+      ],
+      "state": "CREATED",
+      "created_at": "2024-02-01T12:01:44Z",
+      "modified_at": "2024-02-01T12:01:44Z"
+    },
+    {
+      "name": "QueryLogsDemo",
+      "description": null,
+      "workspace": "commons",
+      "creator_email": "luka@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "Demo.QueryLogsDemo"
+      ],
+      "state": "CREATED",
+      "created_at": "2023-10-16T11:35:23Z",
+      "modified_at": "2023-10-16T11:35:23Z"
+    },
+    {
+      "name": "luka_coinbase_alias1",
+      "description": null,
+      "workspace": "commons",
+      "creator_email": "luka@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "commons.luka_coinbase_demo"
+      ],
+      "state": "CREATED",
+      "created_at": "2023-04-24T11:47:25Z",
+      "modified_at": "2023-04-24T11:47:25Z"
+    },
+    {
+      "name": "luka_coinbase_alias2",
+      "description": null,
+      "workspace": "commons",
+      "creator_email": "luka@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "commons.luka_coinbase_demo"
+      ],
+      "state": "CREATED",
+      "created_at": "2023-04-24T11:47:36Z",
+      "modified_at": "2023-04-24T11:47:36Z"
+    },
+    {
+      "name": "test_alias",
+      "description": null,
+      "workspace": "commons",
+      "creator_email": "payton@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "commons.testing_aliases"
+      ],
+      "state": "CREATED",
+      "created_at": "2024-04-08T18:52:29Z",
+      "modified_at": "2024-04-08T18:52:29Z"
+    },
+    {
+      "name": "movie-alias",
+      "description": null,
+      "workspace": "commons",
+      "creator_email": "prakash+demo@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "commons.movie_ratings"
+      ],
+      "state": "CREATED",
+      "created_at": "2020-11-13T21:32:50Z",
+      "modified_at": "2020-11-13T21:32:50Z"
+    },
+    {
+      "name": "twitter-firehose",
+      "description": null,
+      "workspace": "commons",
+      "creator_email": "veeve+demo@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "Demo.twitter_kinesis_30day"
+      ],
+      "state": "CREATED",
+      "created_at": "2022-10-07T05:33:26Z",
+      "modified_at": "2022-10-07T05:33:26Z"
+    },
+    {
+      "name": "Movie_alias",
+      "description": null,
+      "workspace": "se_candidate_lab",
+      "creator_email": "mitch@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "se_candidate_lab.Movies"
+      ],
+      "state": "CREATED",
+      "created_at": "2022-06-16T00:53:42Z",
+      "modified_at": "2022-06-16T00:53:42Z"
+    },
+    {
+      "name": "tyler_example_step3",
+      "description": null,
+      "workspace": "commons",
+      "creator_email": "tyler.denton@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "taxi.chi_taxi"
+      ],
+      "state": "CREATED",
+      "created_at": "2021-12-14T17:07:31Z",
+      "modified_at": "2021-12-14T17:09:25Z"
+    },
+    {
+      "name": "tickers",
+      "description": "fix for prober",
+      "workspace": "commons",
+      "creator_email": "patrick.druley@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "Demo.tickers_apr_2022"
+      ],
+      "state": "CREATED",
+      "created_at": "2022-06-01T15:24:31Z",
+      "modified_at": "2022-06-01T23:26:05Z"
+    },
+    {
+      "name": "a_taxi",
+      "description": null,
+      "workspace": "taxi",
+      "creator_email": "omar@rockset.com",
+      "created_by_apikey_name": null,
+      "collections": [
+        "taxi.chi_taxi_v3"
+      ],
+      "state": "CREATED",
+      "created_at": "2022-08-15T19:54:37Z",
+      "modified_at": "2022-08-15T19:54:37Z"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "created_at": "2024-02-06T10:27:47Z",
+      "created_by": "luka@rockset.com",
+      "name": "Demo_Ecommerce",
+      "description": "Workspace for the E-commerce demo",
+      "collection_count": 3
+    },
+    {
+      "created_at": "2024-05-09T20:27:36Z",
+      "created_by": "brendan.conrad@rockset.com",
+      "name": "Demo_Finance",
+      "description": null,
+      "collection_count": 2
+    },
+    {
+      "created_at": "2024-04-05T19:22:10Z",
+      "created_by": "brendan.conrad@rockset.com",
+      "name": "Demo_Rocksong",
+      "description": null,
+      "collection_count": 1
+    },
+    {
+      "created_at": "2024-01-15T19:43:57Z",
+      "created_by": "payton@rockset.com",
+      "name": "steam",
+      "description": null,
+      "collection_count": 2
+    },
+    {
+      "created_at": "2024-02-09T22:16:54Z",
+      "created_by": "brendan.conrad@rockset.com",
+      "name": "Demo_Weather_Alert",
+      "description": null,
+      "collection_count": 2
+    },
+    {
+      "created_at": "2024-02-11T02:43:20Z",
+      "created_by": "patrick.druley@rockset.com",
+      "name": "Demo_Github",
+      "description": "event metrics use case",
+      "collection_count": 4
+    },
+    {
+      "created_at": "2024-01-10T00:31:59Z",
+      "created_by": "ankitkhare@rockset.com",
+      "name": "workshops",
+      "description": "workshops, talks, and webinars related queries ",
+      "collection_count": 3
+    },
+    {
+      "created_at": "2024-01-22T17:18:45Z",
+      "created_by": "patrick.druley@rockset.com",
+      "name": "Demo_Social_Media",
+      "description": "legacy twitter demo stuff",
+      "collection_count": 11
+    },
+    {
+      "created_at": "2024-01-26T01:20:47Z",
+      "created_by": "omar@rockset.com",
+      "name": "Demo_Airport",
+      "description": null,
+      "collection_count": 2
+    },
+    {
+      "created_at": "2022-05-31T13:07:07Z",
+      "created_by": null,
+      "name": "sandbox",
+      "description": null,
+      "collection_count": 13
+    },
+    {
+      "created_at": "2022-06-16T00:25:36Z",
+      "created_by": null,
+      "name": "se_candidate_lab",
+      "description": null,
+      "collection_count": 1
+    },
+    {
+      "created_at": "2021-09-15T21:05:42Z",
+      "created_by": null,
+      "name": "taxi",
+      "description": "Taxi trip demo",
+      "collection_count": 10
+    },
+    {
+      "created_at": "2018-10-05T02:56:52Z",
+      "created_by": null,
+      "name": "commons",
+      "description": "default workspace",
+      "collection_count": 11
+    },
+    {
+      "created_at": "2024-02-22T19:49:27Z",
+      "created_by": "kiril@rockset.com",
+      "name": "Demo_Wikipedia",
+      "description": null,
+      "collection_count": 3
+    },
+    {
+      "created_at": "2024-03-07T17:25:57Z",
+      "created_by": "tomas@rockset.com",
+      "name": "text_search",
+      "description": null,
+      "collection_count": 1
+    },
+    {
+      "created_at": "2024-03-25T16:05:31Z",
+      "created_by": "sofia@rockset.com",
+      "name": "llm",
+      "description": null,
+      "collection_count": 1
+    },
+    {
+      "created_at": "2024-05-15T21:48:23Z",
+      "created_by": "sofia@rockset.com",
+      "name": "index_conf",
+      "description": null,
+      "collection_count": 0
+    },
+    {
+      "created_at": "2024-02-07T19:21:42Z",
+      "created_by": "patrick.druley@rockset.com",
+      "name": "Demo_Product_Search",
+      "description": "Vector Search Example",
+      "collection_count": 1
+    },
+    {
+      "created_at": "2024-05-01T05:21:55Z",
+      "created_by": "sofia@rockset.com",
+      "name": "Demo_Hybrid_Search",
+      "description": null,
+      "collection_count": 7
+    },
+    {
+      "created_at": "2024-03-26T07:59:47Z",
+      "created_by": "sofia@rockset.com",
+      "name": "sample_workspace",
+      "description": "A sample workspace for testing purposes",
+      "collection_count": 3
+    },
+    {
+      "created_at": "2024-03-26T10:08:58Z",
+      "created_by": "sofia@rockset.com",
+      "name": "sofia_test",
+      "description": "Workspace created for testing purposes by Sofia",
+      "collection_count": 0
+    },
+    {
+      "created_at": "2024-04-09T13:11:40Z",
+      "created_by": "scotts@rockset.com",
+      "name": "java-client-test-workspace-h7ljg",
+      "description": null,
+      "collection_count": 0
+    },
+    {
+      "created_at": "2024-03-11T15:59:21Z",
+      "created_by": "payton@rockset.com",
+      "name": "testing",
+      "description": null,
+      "collection_count": 12
+    },
+    {
+      "created_at": "2024-05-13T21:46:17Z",
+      "created_by": "support+viewtest@rockset.com",
+      "name": "purvi",
+      "description": null,
+      "collection_count": 2
+    },
+    {
+      "created_at": "2023-11-21T13:05:15Z",
+      "created_by": "patrick.druley@rockset.com",
+      "name": "reinvent_2023",
+      "description": null,
+      "collection_count": 1
+    },
+    {
+      "created_at": "2024-04-05T20:06:57Z",
+      "created_by": "sofia@rockset.com",
+      "name": "SOC2",
+      "description": null,
+      "collection_count": 3
+    },
+    {
+      "created_at": "2024-03-22T12:16:57Z",
+      "created_by": "milesfreeborn@rockset.com",
+      "name": "write_ap_test",
+      "description": null,
+      "collection_count": 17
+    },
+    {
+      "created_at": "2023-05-02T19:08:52Z",
+      "created_by": "tyler.denton@rockset.com",
+      "name": "vector_demos",
+      "description": null,
+      "collection_count": 2
+    },
+    {
+      "created_at": "2024-01-23T19:31:44Z",
+      "created_by": "omar@rockset.com",
+      "name": "Demo_Ridesharing",
+      "description": null,
+      "collection_count": 2
+    },
+    {
+      "created_at": "2023-11-22T12:59:30Z",
+      "created_by": "kiril@rockset.com",
+      "name": "gng",
+      "description": null,
+      "collection_count": 0
+    }
+  ]
+}
