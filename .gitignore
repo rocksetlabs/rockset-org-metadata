@@ -1,0 +1,13 @@
+# dotenv
+.env
+
+# virtualenv
+venv/
+ENV/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# Rockset Org Metadata output directory
+rockset_org/
