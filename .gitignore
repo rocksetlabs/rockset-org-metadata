@@ -8,6 +8,7 @@ env/
 .venv/
 env.bak/
 venv.bak/
+myenv/
 
 # Rockset Org Metadata output directory
 rockset_org/
